@@ -4,6 +4,6 @@
   "outputDirectory": ".",
   "cleanUrls": true,
   "rewrites": [
-    { "source": "/booking/:token", "destination": "/index.html" }
+    { "source": "/booking/:token", "destination": "/" }
   ]
 }
